@@ -6,7 +6,7 @@ permalink : /contact/
 
 ## Contact
 
-Get in touch!
+Content Coming Soon
 
 <form>
   <!-- Form stuff -->
